@@ -1,0 +1,17 @@
+{
+    "name": "aliyun-iot-ruff-thermometer",
+    "version": "0.1.0",
+    "description": "",
+    "author": "wongxming",
+    "main": "src/index.js",
+    "ruff": {
+        "dependencies": {
+            "aliyun-iot-device-mqtt": "^0.0.5",
+            "lcd1602-pcf8574a-hd44780": "^0.2.7",
+            "button-gpio": "^2.0.9",
+            "dht11": "^0.3.6",
+            "sds011": "^1.1.0"
+        },
+        "version": 1
+    }
+}
