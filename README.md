@@ -7,9 +7,9 @@
 
 ## 阿里云IoT套件技术支持群
 
-![阿里云IoT钉钉群](https://raw.githubusercontent.com/iot-blog/aliyun-iot-environment-monitor/master/aliyun-iot-dingtalk.png)
+<img src='https://raw.githubusercontent.com/iot-blog/aliyun-iot-environment-monitor/master/aliyun-iot-dingtalk.png' width="538" height="668" />
 
 
 ## bug反馈
 
-![bug反馈](https://raw.githubusercontent.com/wongxming/dtalkNodejs/master/wongxming.jpg)
+<img src='https://raw.githubusercontent.com/wongxming/dtalkNodejs/master/wongxming.jpg' width="240" height="240" />
